@@ -16,7 +16,7 @@ ml-100k/
 *.jpg
 *.tar
 *label
-*synset.txt
+*.txt
 *.rec
 *.lst
 *.tar.gz
